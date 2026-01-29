@@ -10,7 +10,6 @@ class Solution:
             if num>max:
                 max=num
         return [min, max]
-#hbahcdjv
 obj=Solution()
 arr = [3,5,1,8,2,75,3,6,73,94]
 result = obj.findMinMax(arr)
